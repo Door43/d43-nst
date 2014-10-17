@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nst:home|Door43 (nst)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nst|d43-nst repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nst/archive/master.zip|d43-nst.zip]]
+
+**Recent Changes**
+{{changes>ns = nst}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nst|Ethnologue data]]
+
